@@ -15,10 +15,10 @@ package std_msgs_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	builtin_interfaces_msg "github.com/tiiuae/rclgo/internal/msgs/builtin_interfaces/msg"
-	primitives "github.com/tiiuae/rclgo/pkg/rclgo/primitives"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
+	builtin_interfaces_msg "github.com/mehmetkillioglu/rclgo/internal/msgs/builtin_interfaces/msg"
+	primitives "github.com/mehmetkillioglu/rclgo/pkg/rclgo/primitives"
 	
 )
 /*

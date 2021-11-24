@@ -19,10 +19,10 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/tiiuae/rclgo/pkg/rclgo"
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
 
-	_ "github.com/tiiuae/rclgo-msgs" // Load all the available ROS2 Message types. In Go one cannot dynamically import.
+	_ "github.com/mehmetkillioglu/rclgo-msgs" // Load all the available ROS2 Message types. In Go one cannot dynamically import.
 )
 
 // pubCmd represents the pub command

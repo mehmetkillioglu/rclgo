@@ -15,8 +15,8 @@ package builtin_interfaces_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
 	
 )
 /*

@@ -1,4 +1,4 @@
-module github.com/tiiuae/rclgo
+module github.com/mehmetkillioglu/rclgo
 
 go 1.16
 

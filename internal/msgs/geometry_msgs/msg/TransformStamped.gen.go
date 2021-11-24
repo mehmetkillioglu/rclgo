@@ -15,10 +15,10 @@ package geometry_msgs_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	std_msgs_msg "github.com/tiiuae/rclgo/internal/msgs/std_msgs/msg"
-	primitives "github.com/tiiuae/rclgo/pkg/rclgo/primitives"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
+	std_msgs_msg "github.com/mehmetkillioglu/rclgo/internal/msgs/std_msgs/msg"
+	primitives "github.com/mehmetkillioglu/rclgo/pkg/rclgo/primitives"
 	
 )
 /*

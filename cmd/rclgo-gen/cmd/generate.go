@@ -19,7 +19,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
-	"github.com/tiiuae/rclgo/pkg/gogen"
+	"github.com/mehmetkillioglu/rclgo/pkg/gogen"
 	"golang.org/x/tools/go/packages"
 )
 

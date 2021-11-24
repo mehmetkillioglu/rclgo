@@ -18,7 +18,7 @@ import (
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/tiiuae/rclgo/pkg/datagenerator"
+	"github.com/mehmetkillioglu/rclgo/pkg/datagenerator"
 )
 
 // rootCmd represents the base command when called without any subcommands

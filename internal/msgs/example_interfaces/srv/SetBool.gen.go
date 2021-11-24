@@ -24,8 +24,8 @@ package example_interfaces_srv
 import "C"
 
 import (
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
 
 	"unsafe"
 )

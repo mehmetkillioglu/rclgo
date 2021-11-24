@@ -18,9 +18,9 @@ import (
 	"time"
 
 	"github.com/hashicorp/go-multierror"
-	"github.com/tiiuae/rclgo/pkg/datagenerator"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/datagenerator"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
 	"gopkg.in/yaml.v2"
 )
 

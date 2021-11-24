@@ -4,9 +4,9 @@ rclgo the ROS2 client library Golang wrapper
 Installation
 ------------
 
-    $ go get github.com/tiiuae/rclgo
-    $ go install github.com/tiiuae/rclgo/cmd/rclgo
-    $ go install github.com/tiiuae/rclgo/cmd/rclgo-gen
+    $ go get github.com/mehmetkillioglu/rclgo
+    $ go install github.com/mehmetkillioglu/rclgo/cmd/rclgo
+    $ go install github.com/mehmetkillioglu/rclgo/cmd/rclgo-gen
     $ rclgo-gen generate
 
 Commandline client

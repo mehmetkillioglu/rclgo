@@ -88,7 +88,7 @@ import (
 
 	"github.com/google/shlex"
 	"github.com/hashicorp/go-multierror"
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
 )
 
 type RmwMessageInfo struct {

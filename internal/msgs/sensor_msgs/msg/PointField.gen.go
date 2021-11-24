@@ -15,9 +15,9 @@ package sensor_msgs_msg
 import (
 	"unsafe"
 
-	"github.com/tiiuae/rclgo/pkg/rclgo/types"
-	"github.com/tiiuae/rclgo/pkg/rclgo/typemap"
-	primitives "github.com/tiiuae/rclgo/pkg/rclgo/primitives"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/types"
+	"github.com/mehmetkillioglu/rclgo/pkg/rclgo/typemap"
+	primitives "github.com/mehmetkillioglu/rclgo/pkg/rclgo/primitives"
 	
 )
 /*
